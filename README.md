@@ -1,1 +1,1 @@
-# blinkit-sales-dashboard-using-POWEE-BI
+# blinkit-sales-dashboard-using-POWER-BI
